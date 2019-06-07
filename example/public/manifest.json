@@ -1,0 +1,8 @@
+{
+  "short_name": "@collinear/react-tooltip",
+  "name": "@collinear/react-tooltip",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
